@@ -7,8 +7,8 @@ import logoImg from "../../assets/img/home.png";
 import * as cartService from "../../services/cartService";
 import eventEmitter from "../../utils/eventEmitter";
 
-const API_BASE_URL = "http://localhost:5000";
-//const API_BASE_URL = "https://chizatoback.onrender.com";
+//const API_BASE_URL = "http://localhost:5000";
+export const API_BASE_URL = "https://chizatozone-backend.onrender.com";
 
 export const Navbar = () => {
   const [busqueda, setBusqueda] = useState("");

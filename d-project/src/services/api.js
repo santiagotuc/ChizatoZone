@@ -1,7 +1,7 @@
 import axios from "axios";
 
-export const API_BASE_URL = "http://localhost:5000";
-//export const API_BASE_URL = "https://chizatoback.onrender.com";
+//export const API_BASE_URL = "http://localhost:5000";
+export const API_BASE_URL = "https://chizatozone-backend.onrender.com";
 const apiClient = axios.create({
   baseURL: API_BASE_URL,
   headers: {
