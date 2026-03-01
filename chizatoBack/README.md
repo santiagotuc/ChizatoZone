@@ -102,15 +102,11 @@ npm (Node Package Manager) o Yarn
 MongoDB (instancia local o remota, como MongoDB Atlas)
 
 Pasos:
-Clonar el repositorio:
+Clonar el repositorio: Bash
 
-Bash
-
-git clone <https://github.com/LeandroVerdun/chizatoBack.git>
+git clone https://github.com/santiagotuc/ChizatoZone.git
 
 Instalar dependencias:
-
-Bash
 
 npm install
 
@@ -143,3 +139,5 @@ npm start
 # npm run dev
 
 El servidor se iniciará en http://localhost:5000.
+
+Puedes encontrar la nuestro trabajo en https://chizato-zone.vercel.app/
