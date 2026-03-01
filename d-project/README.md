@@ -159,6 +159,8 @@ Este proyecto ha sido desarrollado siguiendo buenas prácticas de la industria:
     ```
     La aplicación React se abrirá en tu navegador en `http://localhost:5173`
 
+Puedes encontrar el trabajo final en https://chizato-zone.vercel.app/
+
 ## 📞 Contacto
 
 Para cualquier consulta o colaboración, no dudes en contactarme.
