@@ -115,8 +115,8 @@ Este proyecto ha sido desarrollado siguiendo buenas prácticas de la industria:
 
 1.  Clona el repositorio del backend:
     ```bash
-    git clone <URL_DEL_REPOSITORIO_BACKEND>
-    cd <nombre_del_repositorio_backend>
+    git clone https://github.com/santiagotuc/ChizatoZone.git
+    cd chizatoBack
     ```
 2.  Instala las dependencias:
     ```bash
@@ -134,14 +134,14 @@ Este proyecto ha sido desarrollado siguiendo buenas prácticas de la industria:
     npm start
     # o node server.js
     ```
-    El backend estará corriendo en `https://chizatoback.onrender.com` (o el puerto que hayas configurado).
+    El backend estará corriendo en https://chizatozone-backend.onrender.com
 
 ### Configuración del Frontend:
 
 1.  Clona el repositorio del frontend:
     ```bash
-    git clone <URL_DEL_REPOSITORIO_FRONTEND>
-    cd <nombre_del_repositorio_frontend>
+    git clone https://github.com/santiagotuc/ChizatoZone.git
+    cd d-project/
     ```
 2.  Instala las dependencias:
     ```bash
@@ -150,7 +150,7 @@ Este proyecto ha sido desarrollado siguiendo buenas prácticas de la industria:
     ```
 3.  Crea un archivo `.env` en la raíz del proyecto y configura la URL de tu backend:
     ```env
-    REACT_APP_BACKEND_URL=https://chizatoback.onrender.com/api
+    REACT_APP_BACKEND_URL=https://chizatozone-backend.onrender.com
     ```
 4.  Inicia la aplicación React:
     ```bash
